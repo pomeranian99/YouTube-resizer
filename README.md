@@ -10,4 +10,4 @@ YouTube's "Theater Mode" is pretty good, but I wanted to strip out everything ex
 
 Hence, this thing!
 
-A super useless tool to pretty much everyone but me, I would suspect, but what the hell.
+A super useless tool for pretty much everyone but me, I would suspect, but what the hell.
